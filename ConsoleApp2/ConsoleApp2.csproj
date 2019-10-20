@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ModelEnum.cs" />
     <Compile Include="Motorbike.cs" />
+    <Compile Include="Partial method.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

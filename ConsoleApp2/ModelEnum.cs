@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
        Jawa = 0,
        Yamaha = 1,
-       MUSSTaNG = 2,
+       MUSSTANG = 2,
        ZONDER = 3,
        ACXA = 4
     }
